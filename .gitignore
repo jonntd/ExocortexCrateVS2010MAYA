@@ -1,5 +1,4 @@
 bin
-install
 Testing/node_modules
 build/vs*
 build/unix*
